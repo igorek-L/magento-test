@@ -1,0 +1,3 @@
+<config>
+    <preference for="\Magento\Customer\Block\Widget\Dob" type="CustomForm\NewAccount\Block\Widget\Dob" />
+</config>
